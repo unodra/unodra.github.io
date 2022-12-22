@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://unodra.github.io</id>
+    <title>不回城娱乐档案馆</title>
+    <updated>2022-12-22T10:11:24.102Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://unodra.github.io"/>
+    <link rel="self" href="https://unodra.github.io/atom.xml"/>
+    <subtitle>欢迎，玩家。</subtitle>
+    <logo>https://unodra.github.io/images/avatar.png</logo>
+    <icon>https://unodra.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 不回城娱乐档案馆</rights>
+    <entry>
+        <title type="html"><![CDATA[铜毡大清洗]]></title>
+        <id>https://unodra.github.io/post/tong-zhan-da-qing-xi/</id>
+        <link href="https://unodra.github.io/post/tong-zhan-da-qing-xi/">
+        </link>
+        <updated>2022-12-21T14:30:49.000Z</updated>
+        <content type="html"><![CDATA[<p>铜毡大清洗事件的</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机械城战争]]></title>
+        <id>https://unodra.github.io/post/ji-jie-cheng-zhan-zheng/</id>
+        <link href="https://unodra.github.io/post/ji-jie-cheng-zhan-zheng/">
+        </link>
+        <updated>2022-12-21T14:22:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这场战争可以溯源到第一次邪潮效应以前，庞克城被发现时。当时的人类国家企图占有械灵的先进技术，派兵攻打庞克，战争总领导人便是卡迪克德。期间发生的邪潮效应使卡迪克德转变为未亡人，后被新生机械领袖兰迪卡尔击杀，人类方彻底失去与庞克城的联络，战争终结。<br>
+　　侵略战争后，兰迪卡尔亲自封印卡迪克德，并看守其封印。<br>
+　　<br>
+　　现代，由于夏打开了通往欧克韦恩的入口，西莉凯伊为保护双方，成立了不回城娱乐，将欧克韦恩伪装成一款vr游戏，并通过斯诺令已经受到艾泽尔影响的恒光市居民进入了欧克韦恩。<br>
+　　部分玩家发现了庞克城的入口，而庞克城接纳他们的条件即为不可泄露庞克城的存在。这些玩家解锁了机械师后，成立了银色齿轮公会，并开始实行机械师图纸垄断。<br>
+　　银色齿轮中的两派，楚河派与初号派矛盾日益严重。在楚河邀请林羽诺一行人前往庞克调查关于末日启示录的同时，初号一方发现了来自远古的封印——“战争的祸乱使”卡迪克德的封印。在初号秘密研究激活卡迪克德的方法时，林羽诺一行人遇到了再次苏醒的兰迪卡尔，从他口中得知了末日启示录的部分事实。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://unodra.github.io/post/hello-gridea/</id>
+        <link href="https://unodra.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
